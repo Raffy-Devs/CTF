@@ -1,0 +1,7 @@
+Description:
+The login page says you need valid credentials to proceed. But what if you didn’t have to play by the rules?
+Rumor has it the devs forgot to sanitize their inputs. Can you slip past the gates using a bit of clever syntax and gain unauthorized access to retrieve the flag?
+No brute force. No password cracking. Just a vulnerable query waiting to be exploited.
+
+
+Hint: The database might just believe whatever you tell it—especially in the username or password fields.

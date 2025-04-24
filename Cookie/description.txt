@@ -1,0 +1,8 @@
+Description:
+Welcome to the secret members-only page! Unfortunately, you’re just a regular user... or are you?
+The server thinks you’re not cool enough to see the flag—but maybe it’s not very good at keeping secrets. Your job? Change its mind.
+You’ve already got access. All it takes is a little tweak in the right place to elevate your status and unlock what’s hidden.
+
+
+Hint: Cookies aren’t just for snacking. Check your browser’s dev tools.
+

@@ -1,0 +1,5 @@
+Description:
+The page looks clean… maybe too clean. But don’t be fooled—this isn’t just any boring webpage. Somewhere deep (or maybe not so deep) in the source code lies the flag you're hunting for.
+You don’t need fancy tools, brute force, or even a login. All you need is a sharp eye, a right-click, and maybe a peek under the hood.
+
+Hint: Sometimes, the real treasure is hidden in plain sight. Inspect carefully—your flag awaits.
